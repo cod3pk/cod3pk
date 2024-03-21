@@ -1,6 +1,6 @@
 # Hi there, I'm Asfand K! 👋
 
-### Full Stack Developer | WordPress Expert | Technology Enthusiast
+### Full Stack Developer | Problem Solver | Technology Enthusiast
 
 ---
 
