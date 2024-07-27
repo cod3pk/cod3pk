@@ -6,7 +6,7 @@
 
 #### Who Am I
 
-- 👨‍💻 ‍ 27-year-old software architect and problem solver with a passion for coding, exploring new technologies, and designing efficient system architectures.
+- 👨‍💻 ‍ 28-year-old software architect and problem solver with a passion for coding, exploring new technologies, and designing efficient system architectures.
 - 🎓 Bachelor of Computer Science, turning my passion for technology into a rewarding career.
 - 💡 Fascinated by efficient system architectures, algorithms, and exploring new technologies.
 - 🌟 Specialized in WordPress, focusing on theme and plugin development and API integrations.
